@@ -59,3 +59,8 @@ https://github.com/phenixcxz/xiaoXinPro-i5-PM981
 
 识别i7  
 http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1835221&pid=49885924
+
+删除全部蓝牙设备列表解决蓝牙连不上问题  
+1.在Macbook上使用Finder，打开/Library/Preferences/com.apple.Bluetooth.plist将此文件删除  
+2.重新启动您的Mac  
+3.这将删除所有的蓝牙设备，您可以重新配对要使用您的Mac设备  
