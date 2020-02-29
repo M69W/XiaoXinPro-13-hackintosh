@@ -56,3 +56,6 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 以上来自 [daliansky/XiaoXinPro-13-2019-hackintosh](https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh) ，根据 i7 的黑苹果记录
 
 https://github.com/phenixcxz/xiaoXinPro-i5-PM981  
+
+识别i7  
+http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1835221&page=2#pid49888888
