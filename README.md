@@ -58,4 +58,4 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 https://github.com/phenixcxz/xiaoXinPro-i5-PM981  
 
 识别i7  
-http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1835221&page=2#pid49888888
+http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1835221&pid=49885924
