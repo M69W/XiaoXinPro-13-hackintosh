@@ -54,3 +54,5 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 - 小新pro黑苹果 946132482
 
 以上来自 [daliansky/XiaoXinPro-13-2019-hackintosh](https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh) ，根据 i7 的黑苹果记录
+
+https://github.com/phenixcxz/xiaoXinPro-i5-PM981  
